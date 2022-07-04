@@ -1,12 +1,12 @@
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/88205480/177112704-cb3dd34a-2a83-4203-ac64-726f50bf00f6.png">
 
 # NETFLIX-APPTENCY
- The test set. it consists of everything in train.csv except target.
- Test set csv - https://www.kaggle.com/competitions/netflix-appetency/data?select=test.csv
- The training set. it consists of an id column, the customers features, and a target column: target.
- Train set csv - https://www.kaggle.com/competitions/netflix-appetency/data?select=train.csv
- A sample submission file in the correct format target=1 means that the customer subscribes to Netflix
- Sample_submission - https://www.kaggle.com/competitions/netflix-appetency/data?select=sample_submission.csv
+ ## The test set. it consists of everything in train.csv except target.
+ ## Test set csv - https://www.kaggle.com/competitions/netflix-appetency/data?select=test.csv
+ ## The training set. it consists of an id column, the customers features, and a target column: target.
+ ## Train set csv - https://www.kaggle.com/competitions/netflix-appetency/data?select=train.csv
+ ## A sample submission file in the correct format target=1 means that the customer subscribes to Netflix
+ ## Sample_submission - https://www.kaggle.com/competitions/netflix-appetency/data?select=sample_submission.csv
 
 
 steps:-
