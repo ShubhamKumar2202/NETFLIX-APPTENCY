@@ -29,7 +29,7 @@ steps:-
 
 2 IMPORT AND READ THE DATASET
 - TRAIN.CSV - the training set. it consists of an id column, the customers features, and a target column: target.
-- TEST.CSV  - the test set. it consists of everything in train.csv except targe.
+- TEST.CSV  - the test set. it consists of everything in train.csv except target.
 
 NOTE:- USED ---->  (%config Completer.use_jedi = False ) MAGIC COMMAND.
 			- Once you have enabled and run the %config Completer.use_jedi = False magic command, 
