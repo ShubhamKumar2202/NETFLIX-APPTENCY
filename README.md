@@ -65,3 +65,11 @@ NOTE:- USED ---->  (%config Completer.use_jedi = False ) MAGIC COMMAND.
 	- For train and test.
 - Get the number of unique values for each feature.
 - Categorical Features Sorted by cardinality.
+- 
+
+
+# STEPS to deal with missing data
+- create a function "get_missing" to find the missing data 
+- store  missing values  from df_train in a dataframe "Missing_Df" 
+- Make a plot to visualize the missing values in "df_train".
+- Create a dataframe "Missing_custom" to drop the missing columns with      - - percentage greater than 25 
